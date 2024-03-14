@@ -42,36 +42,3 @@ for index, row in df.iterrows():
 
 pdf.output("output.pdf")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
